@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c6a86f9-9a0d-4c52-91c9-20e2aab1eef1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\soft\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QiI91QNEyQusbooegrFn0a4TIe" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/test/condition" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15447822" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test.beanimport" />
+      <recent name="com.test.contion" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xltc-1\Desktop\lyricvoice\src\main\java\com\test\condition" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestMain.testImportBeanToContext">
+    <configuration name="TestMain.testCondition (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lyricvoice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.baseIOC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.baseIOC" />
+      <option name="MAIN_CLASS_NAME" value="com.test.baseIOC.TestMain" />
+      <option name="METHOD_NAME" value="testCondition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain.testCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lyricvoice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.baseIOC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.baseIOC" />
+      <option name="MAIN_CLASS_NAME" value="com.test.baseIOC.TestMain" />
+      <option name="METHOD_NAME" value="testCondition" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Dos.name=linux" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain.testFilterBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lyricvoice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.baseIOC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.baseIOC" />
+      <option name="MAIN_CLASS_NAME" value="com.test.baseIOC.TestMain" />
+      <option name="METHOD_NAME" value="testFilterBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Dos.name=linux" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain.testIOC_BeanFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lyricvoice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.baseIOC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.baseIOC" />
+      <option name="MAIN_CLASS_NAME" value="com.test.baseIOC.TestMain" />
+      <option name="METHOD_NAME" value="testIOC_BeanFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain.testImportBeanToContext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lyricvoice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.baseIOC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.baseIOC" />
+      <option name="MAIN_CLASS_NAME" value="com.test.baseIOC.TestMain" />
+      <option name="METHOD_NAME" value="testImportBeanToContext" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestMain.testCondition" />
+      <item itemvalue="JUnit.TestMain.testCondition (1)" />
+      <item itemvalue="JUnit.TestMain.testFilterBean" />
+      <item itemvalue="JUnit.TestMain.testIOC_BeanFilter" />
+      <item itemvalue="JUnit.TestMain.testImportBeanToContext" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMain.testImportBeanToContext" />
+        <item itemvalue="JUnit.TestMain.testIOC_BeanFilter" />
+        <item itemvalue="JUnit.TestMain.testFilterBean" />
+        <item itemvalue="JUnit.TestMain.testCondition" />
+        <item itemvalue="JUnit.TestMain.testCondition (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c6a86f9-9a0d-4c52-91c9-20e2aab1eef1" name="Default Changelist" comment="" />
+      <created>1568246834721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568246834721</updated>
+      <workItem from="1568246837183" duration="11445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/test/contion/MyCondition.java</url>
+          <line>20</line>
+          <properties class="com.test.contion.MyCondition" method="matches">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/test/contion/MyCondition.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lyricvoice$TestMain_testCondition.ic" NAME="TestMain.testCondition Coverage Results" MODIFIED="1568251079276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.test.baseIOC.*</FILTER>
+    </SUITE>
+  </component>
+</project>
