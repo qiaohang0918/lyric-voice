@@ -8,7 +8,7 @@
        http://www.springframework.org/schema/context
        http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/mvc
        http://www.springframework.org/schema/mvc/spring-mvc.xsd">
-
+qq
         <bean id="user" class="com.test.pojo.User" scope="prototype" lazy-init="true" init-method="myinit">
             <property name="name" value="乔航"></property>
             <property name="age" value="24"></property>
